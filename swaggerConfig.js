@@ -18,7 +18,7 @@ var swaggerDefinition = {
     // import swaggerDefinitions
     swaggerDefinition: swaggerDefinition,
     // path to the API docs
-    apis: ["./index.js"],
+    apis: ["./index.js","./routes/users.js"],
   };
   
   // initialize swagger-jsdoc
